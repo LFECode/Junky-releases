@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/LFECode/Junky-releases/releases/latest/download/Junky-1.0.0.dmg"><b>⬇︎ Download Junky 1.0 for Mac</b></a><br>
+  <a href="https://github.com/LFECode/Junky-releases/releases/latest/download/Junky-1.0.1.dmg"><b>⬇︎ Download Junky 1.0.1 for Mac</b></a><br>
   <sub>macOS 14 Sonoma or later · Apple silicon and Intel · 9 MB</sub>
 </p>
 
@@ -31,9 +31,9 @@ selected for you.
 
 ## Install
 
-1. [Download `Junky-1.0.0.dmg`](https://github.com/LFECode/Junky-releases/releases/latest/download/Junky-1.0.0.dmg) and open it.
+1. [Download `Junky-1.0.1.dmg`](https://github.com/LFECode/Junky-releases/releases/latest/download/Junky-1.0.1.dmg) and open it.
 2. Drag **Junky** onto the **Applications** folder.
-3. Open Junky from Applications. Version 1.0 isn't notarized by Apple yet, so the first time
+3. Open Junky from Applications. Junky isn't notarized by Apple yet, so the first time
    macOS says it can't verify Junky:
    - click **Done** (or **OK**),
    - open **System Settings › Privacy & Security**, scroll down to *"Junky" was blocked…*
@@ -55,8 +55,8 @@ If you turned on *Free Up RAM without a password*, turn it off first under
 ## Check your download
 
 ```bash
-shasum -a 256 ~/Downloads/Junky-1.0.0.dmg
+shasum -a 256 ~/Downloads/Junky-1.0.1.dmg
 ```
 
-The result should match `Junky-1.0.0.dmg.sha256` on the
+The result should match `Junky-1.0.1.dmg.sha256` on the
 [release page](https://github.com/LFECode/Junky-releases/releases/latest).
